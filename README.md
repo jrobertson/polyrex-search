@@ -10,6 +10,7 @@ The Polyrex Search gem is an experiment on how keywords can be stored and search
     #=> [["spacebubble.com", 2],["hubbabubba.com", 1]]
 
 file: polyrex_search.xml
+
     <?xml version='1.0' encoding='UTF-8'?>
     <words>
       <summary>
